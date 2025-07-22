@@ -1,0 +1,349 @@
+"nodeId","description","adjustedPValue"
+"GO:0006091","generation of precursor metabolites and energy",8.41408233956214e-05
+"GO:0140694","membraneless organelle assembly",8.41408233956214e-05
+"GO:0044282","small molecule catabolic process",8.41408233956214e-05
+"GO:0016054","organic acid catabolic process",8.41408233956214e-05
+"GO:0046395","carboxylic acid catabolic process",8.41408233956214e-05
+"GO:0009314","response to radiation",0.000270814467770307
+"GO:0044248","cellular catabolic process",0.000395599308777075
+"GO:0001894","tissue homeostasis",0.000395599308777075
+"GO:0060249","anatomical structure homeostasis",0.000395599308777075
+"GO:0031346","positive regulation of cell projection organization",0.000555465905182951
+"GO:0055074","calcium ion homeostasis",0.000555465905182951
+"GO:0006874","intracellular calcium ion homeostasis",0.00118693390317321
+"GO:0060562","epithelial tube morphogenesis",0.00122915811742683
+"GO:0030316","osteoclast differentiation",0.00238747394182043
+"GO:0007005","mitochondrion organization",0.00299797757644313
+"GO:0007098","centrosome cycle",0.00352966512780246
+"GO:0022411","cellular component disassembly",0.00356104037969137
+"GO:0006163","purine nucleotide metabolic process",0.00360108339486819
+"GO:0031109","microtubule polymerization or depolymerization",0.00395328968689646
+"GO:0006635","fatty acid beta-oxidation",0.00400009187678478
+"GO:0015980","energy derivation by oxidation of organic compounds",0.00400009187678478
+"GO:0009416","response to light stimulus",0.00400009187678478
+"GO:0048732","gland development",0.0040251750611967
+"GO:0030099","myeloid cell differentiation",0.00461442356490275
+"GO:0050878","regulation of body fluid levels",0.00504716326290833
+"GO:0060603","mammary gland duct morphogenesis",0.00504716326290833
+"GO:0032886","regulation of microtubule-based process",0.00504716326290833
+"GO:0030900","forebrain development",0.00504716326290833
+"GO:0010975","regulation of neuron projection development",0.00504716326290833
+"GO:0031023","microtubule organizing center organization",0.00504716326290833
+"GO:0016358","dendrite development",0.00504716326290833
+"GO:0061180","mammary gland epithelium development",0.00504716326290833
+"GO:0009062","fatty acid catabolic process",0.00504716326290833
+"GO:0034389","lipid droplet organization",0.0050839051266573
+"GO:1990778","protein localization to cell periphery",0.00652750591037812
+"GO:0048285","organelle fission",0.00652750591037812
+"GO:0072659","protein localization to plasma membrane",0.00652750591037812
+"GO:0048568","embryonic organ development",0.00728783808713002
+"GO:0051347","positive regulation of transferase activity",0.00733139546095002
+"GO:0022604","regulation of cell morphogenesis",0.00764722398420424
+"GO:0010038","response to metal ion",0.0083157789496802
+"GO:0007163","establishment or maintenance of cell polarity",0.0083157789496802
+"GO:0048872","homeostasis of number of cells",0.00857925542071183
+"GO:0007188","adenylate cyclase-modulating G protein-coupled receptor signaling pathway",0.00862769033136658
+"GO:1903522","regulation of blood circulation",0.00915066390921596
+"GO:0051235","maintenance of location",0.010079381419883
+"GO:0007059","chromosome segregation",0.010079381419883
+"GO:0018205","peptidyl-lysine modification",0.010079381419883
+"GO:0072329","monocarboxylic acid catabolic process",0.0102373167280756
+"GO:0010976","positive regulation of neuron projection development",0.0102751907955913
+"GO:0046777","protein autophosphorylation",0.0102751907955913
+"GO:1905475","regulation of protein localization to membrane",0.0102751907955913
+"GO:0043270","positive regulation of monoatomic ion transport",0.010613267840645
+"GO:0051056","regulation of small GTPase mediated signal transduction",0.0113570673898924
+"GO:0019693","ribose phosphate metabolic process",0.011534979286504
+"GO:0051651","maintenance of location in cell",0.011534979286504
+"GO:0000209","protein polyubiquitination",0.0115819594329962
+"GO:0031589","cell-substrate adhesion",0.0115819594329962
+"GO:1902850","microtubule cytoskeleton organization involved in mitosis",0.0122825724000202
+"GO:0007051","spindle organization",0.012556696436818
+"GO:0042391","regulation of membrane potential",0.012556696436818
+"GO:0072593","reactive oxygen species metabolic process",0.0127378088313906
+"GO:0097191","extrinsic apoptotic signaling pathway",0.0129786118087973
+"GO:0090596","sensory organ morphogenesis",0.0129786118087973
+"GO:0010506","regulation of autophagy",0.0145080281864677
+"GO:0140042","lipid droplet formation",0.0149324637811081
+"GO:0000038","very long-chain fatty acid metabolic process",0.0150734016811328
+"GO:0009259","ribonucleotide metabolic process",0.0150734016811328
+"GO:0000075","cell cycle checkpoint signaling",0.0150734016811328
+"GO:0016032","viral process",0.0150734016811328
+"GO:0106027","neuron projection organization",0.0150734016811328
+"GO:2000377","regulation of reactive oxygen species metabolic process",0.0170557122410505
+"GO:0007264","small GTPase-mediated signal transduction",0.0170557122410505
+"GO:0007019","microtubule depolymerization",0.0170557122410505
+"GO:0009581","detection of external stimulus",0.0174018190370064
+"GO:0042327","positive regulation of phosphorylation",0.0174018190370064
+"GO:0007409","axonogenesis",0.0180965666486386
+"GO:0006520","amino acid metabolic process",0.0185428406588216
+"GO:1904375","regulation of protein localization to cell periphery",0.0199493914702548
+"GO:0051225","spindle assembly",0.0203780925787915
+"GO:0048813","dendrite morphogenesis",0.0203780925787915
+"GO:1902115","regulation of organelle assembly",0.0203780925787915
+"GO:0006979","response to oxidative stress",0.0203780925787915
+"GO:0140014","mitotic nuclear division",0.0206446110606589
+"GO:0051775","response to redox state",0.0208153706338835
+"GO:2001236","regulation of extrinsic apoptotic signaling pathway",0.0213796070143116
+"GO:0051208","sequestering of calcium ion",0.0220958267187902
+"GO:0009583","detection of light stimulus",0.0220958267187902
+"GO:0032414","positive regulation of ion transmembrane transporter activity",0.0220958267187902
+"GO:0007599","hemostasis",0.0221645082019995
+"GO:0051259","protein complex oligomerization",0.0224380324833024
+"GO:0170033","L-amino acid metabolic process",0.0227162340908928
+"GO:0071214","cellular response to abiotic stimulus",0.0227162340908928
+"GO:0104004","cellular response to environmental stimulus",0.0227162340908928
+"GO:0045333","cellular respiration",0.0227947736989081
+"GO:0043087","regulation of GTPase activity",0.0236497865321142
+"GO:0007044","cell-substrate junction assembly",0.0249661638194611
+"GO:0023061","signal release",0.0250226832311065
+"GO:0000819","sister chromatid segregation",0.0250527176154666
+"GO:0019395","fatty acid oxidation",0.0250527176154666
+"GO:0060443","mammary gland morphogenesis",0.0252092529749904
+"GO:1903829","positive regulation of protein localization",0.0255965919308926
+"GO:0070507","regulation of microtubule cytoskeleton organization",0.0257185610661292
+"GO:0051282","regulation of sequestering of calcium ion",0.0257185610661292
+"GO:0009150","purine ribonucleotide metabolic process",0.0257217266530564
+"GO:0045453","bone resorption",0.0257217266530564
+"GO:0089718","amino acid import across plasma membrane",0.0257217266530564
+"GO:0007189","adenylate cyclase-activating G protein-coupled receptor signaling pathway",0.0264782348473766
+"GO:1905039","carboxylic acid transmembrane transport",0.0264782348473766
+"GO:0051592","response to calcium ion",0.0264782348473766
+"GO:0009582","detection of abiotic stimulus",0.0264782348473766
+"GO:0140053","mitochondrial gene expression",0.0266815697153583
+"GO:0048592","eye morphogenesis",0.0271272968922497
+"GO:0035264","multicellular organism growth",0.0272538852145142
+"GO:0043954","cellular component maintenance",0.0272538852145142
+"GO:0097305","response to alcohol",0.0275743185699281
+"GO:0048880","sensory system development",0.0275743185699281
+"GO:0099003","vesicle-mediated transport in synapse",0.0282660996124474
+"GO:0035150","regulation of tube size",0.028445380263438
+"GO:0032411","positive regulation of transporter activity",0.0284495601530316
+"GO:2001259","positive regulation of cation channel activity",0.0290369261617811
+"GO:0019229","regulation of vasoconstriction",0.0295189748989502
+"GO:0043161","proteasome-mediated ubiquitin-dependent protein catabolic process",0.0295189748989502
+"GO:0043434","response to peptide hormone",0.0295189748989502
+"GO:0044706","multi-multicellular organism process",0.0295189748989502
+"GO:0070050","neuron cellular homeostasis",0.0295189748989502
+"GO:0001654","eye development",0.0295189748989502
+"GO:0170039","proteinogenic amino acid metabolic process",0.0295189748989502
+"GO:0061615","glycolytic process through fructose-6-phosphate",0.0295189748989502
+"GO:1903825","organic acid transmembrane transport",0.0295189748989502
+"GO:0008206","bile acid metabolic process",0.0295189748989502
+"GO:0001895","retina homeostasis",0.0295189748989502
+"GO:0043467","regulation of generation of precursor metabolites and energy",0.0295189748989502
+"GO:0002244","hematopoietic progenitor cell differentiation",0.0295189748989502
+"GO:0006446","regulation of translational initiation",0.0295189748989502
+"GO:0007034","vacuolar transport",0.0295189748989502
+"GO:0051960","regulation of nervous system development",0.0295189748989502
+"GO:0035296","regulation of tube diameter",0.0302231997015119
+"GO:0097746","blood vessel diameter maintenance",0.0302231997015119
+"GO:0050767","regulation of neurogenesis",0.0302231997015119
+"GO:0051283","negative regulation of sequestering of calcium ion",0.0302231997015119
+"GO:0150063","visual system development",0.0302231997015119
+"GO:0030168","platelet activation",0.0302231997015119
+"GO:0001934","positive regulation of protein phosphorylation",0.0302231997015119
+"GO:0098813","nuclear chromosome segregation",0.0302231997015119
+"GO:0046849","bone remodeling",0.0307609636787182
+"GO:0051338","regulation of transferase activity",0.0307609636787182
+"GO:0007596","blood coagulation",0.0307609636787182
+"GO:1902414","protein localization to cell junction",0.0308624315686171
+"GO:0050817","coagulation",0.0308624315686171
+"GO:0050890","cognition",0.0313441328858486
+"GO:0072665","protein localization to vacuole",0.0313441328858486
+"GO:0006699","bile acid biosynthetic process",0.0313441328858486
+"GO:0010669","epithelial structure maintenance",0.0313441328858486
+"GO:0042770","signal transduction in response to DNA damage",0.0318911569367549
+"GO:0006575","modified amino acid metabolic process",0.0318911569367549
+"GO:0045637","regulation of myeloid cell differentiation",0.0319721046296592
+"GO:0043269","regulation of monoatomic ion transport",0.0319721046296592
+"GO:0003012","muscle system process",0.0319721046296592
+"GO:0032615","interleukin-12 production",0.0319721046296592
+"GO:0032655","regulation of interleukin-12 production",0.0319721046296592
+"GO:0072666","establishment of protein localization to vacuole",0.0319721046296592
+"GO:0019722","calcium-mediated signaling",0.0319721046296592
+"GO:0032735","positive regulation of interleukin-12 production",0.0319721046296592
+"GO:0003018","vascular process in circulatory system",0.0319721046296592
+"GO:0031570","DNA integrity checkpoint signaling",0.0319721046296592
+"GO:0007160","cell-matrix adhesion",0.0319721046296592
+"GO:0008406","gonad development",0.0319721046296592
+"GO:0051209","release of sequestered calcium ion into cytosol",0.0319721046296592
+"GO:0006813","potassium ion transport",0.0319721046296592
+"GO:0045137","development of primary sexual characteristics",0.0319721046296592
+"GO:0042886","amide transport",0.0319721046296592
+"GO:0062197","cellular response to chemical stress",0.0319721046296592
+"GO:0061458","reproductive system development",0.0319721046296592
+"GO:0010562","positive regulation of phosphorus metabolic process",0.0329250468219964
+"GO:0045937","positive regulation of phosphate metabolic process",0.0329250468219964
+"GO:0046785","microtubule polymerization",0.0334932563560835
+"GO:0008016","regulation of heart contraction",0.0334932563560835
+"GO:0009060","aerobic respiration",0.0340960560864061
+"GO:0006730","one-carbon metabolic process",0.0340960560864061
+"GO:0002790","peptide secretion",0.0340960560864061
+"GO:0007015","actin filament organization",0.0340960560864061
+"GO:1903706","regulation of hemopoiesis",0.0340960560864061
+"GO:0048678","response to axon injury",0.0340960560864061
+"GO:0060041","retina development in camera-type eye",0.0340960560864061
+"GO:0007611","learning or memory",0.0340960560864061
+"GO:0044703","multi-organism reproductive process",0.0340960560864061
+"GO:0007254","JNK cascade",0.0340960560864061
+"GO:0048562","embryonic organ morphogenesis",0.0340960560864061
+"GO:0000280","nuclear division",0.0340960560864061
+"GO:0045671","negative regulation of osteoclast differentiation",0.0340960560864061
+"GO:0008585","female gonad development",0.0340960560864061
+"GO:1905477","positive regulation of protein localization to membrane",0.0340960560864061
+"GO:0009799","specification of symmetry",0.0340960560864061
+"GO:0009855","determination of bilateral symmetry",0.0340960560864061
+"GO:0034440","lipid oxidation",0.0340960560864061
+"GO:0006399","tRNA metabolic process",0.0340960560864061
+"GO:1901605","alpha-amino acid metabolic process",0.0340960560864061
+"GO:0048754","branching morphogenesis of an epithelial tube",0.0340960560864061
+"GO:0033500","carbohydrate homeostasis",0.0340960560864061
+"GO:0051261","protein depolymerization",0.0340960560864061
+"GO:0030198","extracellular matrix organization",0.0340960560864061
+"GO:0042060","wound healing",0.0340960560864061
+"GO:0090068","positive regulation of cell cycle process",0.0340960560864061
+"GO:0031114","regulation of microtubule depolymerization",0.0346048008418858
+"GO:0150115","cell-substrate junction organization",0.0346048008418858
+"GO:0031998","regulation of fatty acid beta-oxidation",0.0346048008418858
+"GO:0051546","keratinocyte migration",0.0346048008418858
+"GO:0071880","adenylate cyclase-activating adrenergic receptor signaling pathway",0.0346048008418858
+"GO:0001701","in utero embryonic development",0.0346048008418858
+"GO:0009063","amino acid catabolic process",0.034615598202572
+"GO:0007041","lysosomal transport",0.034615598202572
+"GO:0007052","mitotic spindle organization",0.034615598202572
+"GO:0033674","positive regulation of kinase activity",0.034615598202572
+"GO:0006816","calcium ion transport",0.034615598202572
+"GO:0045779","negative regulation of bone resorption",0.034615598202572
+"GO:0099509","regulation of presynaptic cytosolic calcium ion concentration",0.034615598202572
+"GO:0007585","respiratory gaseous exchange by respiratory system",0.034615598202572
+"GO:0043410","positive regulation of MAPK cascade",0.0347764727198157
+"GO:0072524","pyridine-containing compound metabolic process",0.0347964905315153
+"GO:0031110","regulation of microtubule polymerization or depolymerization",0.0347964905315153
+"GO:0009895","negative regulation of catabolic process",0.0347964905315153
+"GO:0042310","vasoconstriction",0.0347964905315153
+"GO:0043268","positive regulation of potassium ion transport",0.0347964905315153
+"GO:0042596","fear response",0.0353374626345395
+"GO:0032543","mitochondrial translation",0.0356001111712934
+"GO:0042593","glucose homeostasis",0.0360080269561031
+"GO:0033555","multicellular organismal response to stress",0.0362543332356425
+"GO:0097061","dendritic spine organization",0.0363080007385997
+"GO:0042445","hormone metabolic process",0.0371302708352167
+"GO:0030879","mammary gland development",0.0371302708352167
+"GO:0043062","extracellular structure organization",0.0372742135456803
+"GO:0030072","peptide hormone secretion",0.0372742135456803
+"GO:0008202","steroid metabolic process",0.0372742135456803
+"GO:0046879","hormone secretion",0.0375147656157302
+"GO:0046847","filopodium assembly",0.0375147656157302
+"GO:0010639","negative regulation of organelle organization",0.0380712351108541
+"GO:0006282","regulation of DNA repair",0.0380712351108541
+"GO:0032755","positive regulation of interleukin-6 production",0.0386395321244977
+"GO:0046545","development of primary female sexual characteristics",0.0393119881792847
+"GO:1903076","regulation of protein localization to plasma membrane",0.03940490385255
+"GO:1902903","regulation of supramolecular fiber organization",0.0398941555309198
+"GO:0006936","muscle contraction",0.0398941555309198
+"GO:0060444","branching involved in mammary gland duct morphogenesis",0.0398941555309198
+"GO:0097062","dendritic spine maintenance",0.0398941555309198
+"GO:0010810","regulation of cell-substrate adhesion",0.0399284792702487
+"GO:0008360","regulation of cell shape",0.0399284792702487
+"GO:0001541","ovarian follicle development",0.0402289513024447
+"GO:0051480","regulation of cytosolic calcium ion concentration",0.0402289513024447
+"GO:0003002","regionalization",0.0402289513024447
+"GO:0035418","protein localization to synapse",0.0402289513024447
+"GO:0002423","natural killer cell mediated immune response to tumor cell",0.0402289513024447
+"GO:0046500","S-adenosylmethionine metabolic process",0.0402289513024447
+"GO:0030217","T cell differentiation",0.0402289513024447
+"GO:0043010","camera-type eye development",0.0402289513024447
+"GO:0048608","reproductive structure development",0.0402289513024447
+"GO:0034599","cellular response to oxidative stress",0.0402289513024447
+"GO:0006836","neurotransmitter transport",0.0402289513024447
+"GO:0030522","intracellular receptor signaling pathway",0.0402997789216779
+"GO:2000765","regulation of cytoplasmic translation",0.0404754555747854
+"GO:0000070","mitotic sister chromatid segregation",0.0405699164334649
+"GO:0006644","phospholipid metabolic process",0.0405699164334649
+"GO:0007389","pattern specification process",0.0405699164334649
+"GO:0006937","regulation of muscle contraction",0.0405699164334649
+"GO:0045229","external encapsulating structure organization",0.0406648655588611
+"GO:0034101","erythrocyte homeostasis",0.0406932746168191
+"GO:0048013","ephrin receptor signaling pathway",0.0406932746168191
+"GO:0048041","focal adhesion assembly",0.0406932746168191
+"GO:0019362","pyridine nucleotide metabolic process",0.0408189165948042
+"GO:0046496","nicotinamide nucleotide metabolic process",0.0408189165948042
+"GO:0000266","mitochondrial fission",0.0413335346398441
+"GO:0060491","regulation of cell projection assembly",0.0414489820759819
+"GO:0006997","nucleus organization",0.0417041056452133
+"GO:1901879","regulation of protein depolymerization",0.0419840453123533
+"GO:0048545","response to steroid hormone",0.0423079756253809
+"GO:0034109","homotypic cell-cell adhesion",0.0426080248038995
+"GO:0022038","corpus callosum development",0.0426080248038995
+"GO:0046660","female sex differentiation",0.0426080248038995
+"GO:0006302","double-strand break repair",0.0426080248038995
+"GO:0016049","cell growth",0.0433422952592353
+"GO:0051321","meiotic cell cycle",0.0435520148194275
+"GO:0003015","heart process",0.043621133230322
+"GO:0061515","myeloid cell development",0.0436846503065141
+"GO:0002181","cytoplasmic translation",0.04411223641518
+"GO:0010457","centriole-centriole cohesion",0.04411223641518
+"GO:0060009","Sertoli cell development",0.04411223641518
+"GO:0060099","regulation of phagocytosis, engulfment",0.04411223641518
+"GO:1905153","regulation of membrane invagination",0.04411223641518
+"GO:0016055","Wnt signaling pathway",0.04411223641518
+"GO:1901606","alpha-amino acid catabolic process",0.04411223641518
+"GO:0060972","left/right pattern formation",0.0442341581432644
+"GO:0000077","DNA damage checkpoint signaling",0.0444378784860123
+"GO:0000768","syncytium formation by plasma membrane fusion",0.0444378784860123
+"GO:0140253","cell-cell fusion",0.0444378784860123
+"GO:0002573","myeloid leukocyte differentiation",0.0444378784860123
+"GO:0070527","platelet aggregation",0.0444378784860123
+"GO:0046683","response to organophosphorus",0.0444378784860123
+"GO:0030902","hindbrain development",0.0444378784860123
+"GO:0016226","iron-sulfur cluster assembly",0.0444378784860123
+"GO:0031163","metallo-sulfur cluster assembly",0.0444378784860123
+"GO:1902473","regulation of protein localization to synapse",0.0444378784860123
+"GO:1902683","regulation of receptor localization to synapse",0.0444378784860123
+"GO:0002791","regulation of peptide secretion",0.0444378784860123
+"GO:0007517","muscle organ development",0.0444378784860123
+"GO:0044772","mitotic cell cycle phase transition",0.0447015782049575
+"GO:0002688","regulation of leukocyte chemotaxis",0.0447246151863702
+"GO:0042254","ribosome biogenesis",0.0451928398238206
+"GO:0099504","synaptic vesicle cycle",0.0452639615130218
+"GO:0032388","positive regulation of intracellular transport",0.0452639615130218
+"GO:0010720","positive regulation of cell development",0.0453588682448346
+"GO:0045670","regulation of osteoclast differentiation",0.0453588682448346
+"GO:0010959","regulation of metal ion transport",0.0453588682448346
+"GO:0030258","lipid modification",0.045432465345388
+"GO:0051258","protein polymerization",0.0455009015651425
+"GO:1902895","positive regulation of miRNA transcription",0.0455009015651425
+"GO:0006605","protein targeting",0.0455009015651425
+"GO:0046883","regulation of hormone secretion",0.045591641977519
+"GO:0030098","lymphocyte differentiation",0.046403622360628
+"GO:0090087","regulation of peptide transport",0.0465643850707467
+"GO:0032784","regulation of DNA-templated transcription elongation",0.0472267883468922
+"GO:0014074","response to purine-containing compound",0.0472267883468922
+"GO:0060078","regulation of postsynaptic membrane potential",0.0472267883468922
+"GO:0034104","negative regulation of tissue remodeling",0.0474747254828172
+"GO:0046320","regulation of fatty acid oxidation",0.0474747254828172
+"GO:0061138","morphogenesis of a branching epithelium",0.0474747254828172
+"GO:0050769","positive regulation of neurogenesis",0.0474747254828172
+"GO:0060047","heart contraction",0.0477406020160487
+"GO:0009914","hormone transport",0.0477406020160487
+"GO:0007520","myoblast fusion",0.0477954175444867
+"GO:1904064","positive regulation of cation transmembrane transport",0.0481486524912385
+"GO:0060537","muscle tissue development",0.0482144558351225
+"GO:0009072","aromatic amino acid metabolic process",0.0482175989755101
+"GO:0120032","regulation of plasma membrane bounded cell projection assembly",0.0484468045346617
+"GO:0007612","learning",0.0485797582027204
+"GO:0071383","cellular response to steroid hormone stimulus",0.0485797582027204
+"GO:0097120","receptor localization to synapse",0.0485797582027204
+"GO:0002262","myeloid cell homeostasis",0.0485797582027204
+"GO:0007548","sex differentiation",0.0485797582027204
+"GO:0006354","DNA-templated transcription elongation",0.0485797582027204
+"GO:0072175","epithelial tube formation",0.0485797582027204
+"GO:0071322","cellular response to carbohydrate stimulus",0.049090882064655
+"GO:0031345","negative regulation of cell projection organization",0.0491091930526155
+"GO:0009144","purine nucleoside triphosphate metabolic process",0.0493042083933299
+"GO:0048863","stem cell differentiation",0.0493042083933299
+"GO:0010811","positive regulation of cell-substrate adhesion",0.0494650029663843
+"GO:0001890","placenta development",0.0495247005128866
+"GO:0008625","extrinsic apoptotic signaling pathway via death domain receptors",0.0496373504294931
+"GO:0046328","regulation of JNK cascade",0.0496373504294931
